@@ -190,7 +190,7 @@ export default function Home() {
       {/* Footer */}
       <footer className="py-8 text-center">
         <p className="text-gray-500">
-          © 2026 Your Name. All rights reserved.
+          © 2026 All rights reserved.
         </p>
       </footer>
     </main>
