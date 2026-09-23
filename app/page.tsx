@@ -69,7 +69,7 @@ export default function Home() {
             I am a passionate web developer interested in
             creating websites and applications. I enjoy
             learning new technologies and building useful
-            digital experiences......
+            digital experiences.
           </p>
         </div>
       </section>
