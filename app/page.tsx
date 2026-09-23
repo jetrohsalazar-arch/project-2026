@@ -48,7 +48,7 @@ JS<span className="text-violet-400">.</span> </a>
        <h2 className="mt-6 text-5xl font-bold tracking-tight md:text-8xl"> LET'S CREATE <br /> 
          <span className="text-gray-600">SOMETHING.</span> </h2> 
        <p className="mx-auto mt-8 max-w-lg text-gray-500"> Have a project in mind? Let's talk about your idea and create something meaningful together. </p>
-       <a href="mailto:youremail@example.com" className="mt-10 inline-flex rounded-full bg-white px-8 py-4 text-sm font-semibold text-black transition hover:bg-violet-400" > Start a Conversation → </a> </div> </section>
+       <a href="mailto:jetjetigop@gmail.com" className="mt-10 inline-flex rounded-full bg-white px-8 py-4 text-sm font-semibold text-black transition hover:bg-violet-400" > Start a Conversation → </a> </div> </section>
    {/* Footer */} <footer className="border-t border-white/10 px-6 py-8"> <div className="mx-auto flex max-w-6xl flex-col justify-between gap-4 text-sm text-gray-600 sm:flex-row"> <p>© 2026 Jetroh Salazar</p>
      <p>Designed & built with intention.</p> </div> </footer> </main>
         ); 
