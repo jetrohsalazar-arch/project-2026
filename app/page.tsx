@@ -1,4 +1,3 @@
-```jsx
 export default function Home() {
   const skills = [
     "UI/UX Design",
